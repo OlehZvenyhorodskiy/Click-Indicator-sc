@@ -1,0 +1,3 @@
+
+c:\Projects\00ClickI\extracted\jackz.click-indicators.android64.so:     file format elf64-little
+
